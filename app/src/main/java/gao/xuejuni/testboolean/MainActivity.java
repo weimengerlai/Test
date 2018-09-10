@@ -27,6 +27,10 @@ public class MainActivity extends AppCompatActivity {
 
         // 加入一行代码
 
+        // 这是一行注释
+
+        // 在切换分子之前对代码进行提交
+
         if (!isFirst){
 
             isFirst = true;

@@ -25,6 +25,8 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d(TAG,isFirst+"这是一个测试的apk");
 
+        // 加入一行代码
+
         if (!isFirst){
 
             isFirst = true;

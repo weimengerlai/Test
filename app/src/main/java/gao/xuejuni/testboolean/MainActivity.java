@@ -25,6 +25,10 @@ public class MainActivity extends AppCompatActivity {
 
         Log.d(TAG,isFirst+"这是一个测试的apk");
 
+        // 这是一行注释
+
+        // 在切换分子之前对代码进行提交 
+
         if (!isFirst){
 
             isFirst = true;
